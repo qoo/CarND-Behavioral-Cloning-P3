@@ -1,6 +1,9 @@
 # Behaviorial Cloning Project
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+Intro
+---
+https://www.evernote.com/shard/s8/nl/1547375/45005931-87d0-44b4-ad98-3f9211a99615?title=udacity-Behavioral%20Cloning%20Project-Self-Driving%20Car%20Engineer%20-%20Udacity
 
 Overview
 ---
